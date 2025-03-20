@@ -28,6 +28,4 @@ O K-Means Clustering é um dos algoritmos mais populares para agrupamento de dad
 
 O resultado final mostra os dados do conjunto **Iris**, com suas amostras agrupadas em três clusters distintos, representados por cores diferentes:  
 
-![Gráfico de Clustering](C:\Users\andre\Downloads\FireShot\gráfico_kmean.png)   
-
-
+![Gráfico Clustering](https://github.com/user-attachments/assets/69407dab-8dcf-4374-920e-ec039cdef2d3)
