@@ -7,7 +7,7 @@ The dataset used for this project is the **Adult Income Dataset**, which contain
 
 ## Files
 - **income_prediction.py**: The main Python script that performs data preprocessing, model training, and evaluation.
-- **adult.data**: The dataset used for training the model (should be placed in the same directory as `income_prediction.py`).
+
 
 
 ## Model Details
